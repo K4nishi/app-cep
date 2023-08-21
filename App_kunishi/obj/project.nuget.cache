@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICLe9a3HW7fK3C8z1kgfX92o3PIEIjzztjLQUKRVXosrfjVVyvQwKy65wJ/Ltn5+5YJqIrmaktzhvnB8BdOlBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davit\\source\\repos\\App_kunishi\\App_kunishi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
